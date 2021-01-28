@@ -1,6 +1,11 @@
-# worldtime
+## Flutter-World-Time App 🕒
 
-A new Flutter application.
+A simple Flutter time application displaying the time of some selected cities in the world. 
+
+## Screenshots 📷
+
+
+
 
 ## Getting Started
 
